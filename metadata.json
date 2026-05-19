@@ -1,0 +1,6 @@
+{
+  "name": "Bright Academy",
+  "description": "Modern premium educational coaching website for Bright Academy in Ahmedabad, specializing in SSC, Police, SI, and TET exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
